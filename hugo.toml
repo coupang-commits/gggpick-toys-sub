@@ -52,7 +52,7 @@ title = 'GGG Pick 완구장난감'
 hasCJKLanguage = true
 buildFuture = true
 buildDrafts = true
-disableKinds = ["RSS"]
+disableKinds = ["RSS", "sitemap"]
 
 [taxonomies]
   tag = "tags"
