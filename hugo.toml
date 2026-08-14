@@ -80,3 +80,10 @@ disableKinds = ["RSS"]
   [[related.indices]]
     name = "date"
     weight = 10
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+  page = ["HTML"]
